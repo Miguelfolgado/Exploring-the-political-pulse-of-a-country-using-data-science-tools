@@ -1,6 +1,6 @@
 # Exploring the political pulse of a country using data science tools
 
-Este trabajo ha sido realizado en colaboración con Veronica Sanz, del Instituto de Física Corpuscular de la Universidad de Valencia.
+Este trabajo ha sido realizado en colaboración con Verónica Sanz, del Instituto de Física Corpuscular (IFIC) de la Universidad de Valencia.
 
 El objetivo de este proyecto es el entrenamiento de una red neuronal capaz de nutrirse de tweets de diferentes dirigentes politicos de 5 fuerzas dominantes del panorama español desde 2016 hasta 2020 (Podemos, PSOE, Ciudadanos, PP y VOX). La idea es ver si entrenando dicha red con suficientes tweets es posible realizar una catalogación de nuevos tweets dentro de estas 5 fuerzas politicas.
 
